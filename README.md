@@ -27,6 +27,7 @@
 ## Link
 ---
 
+* Link do executável: https://drive.google.com/file/d/1QZaz64UVx40uCqNn-5Kz1qP0wAQaHlD0/view?usp=share_link
 * Youtube:(*** LINK DO VIDEO ***)
 
 ---
